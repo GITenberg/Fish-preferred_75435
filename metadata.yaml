@@ -1,0 +1,39 @@
+_repo: Fish-preferred_75435
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wodehouse, P. G. (Pelham Grenville)
+    aliases:
+    - Wodehouse, Pelham Grenville
+    - Windham, Basil
+    - Wodehouse, P.G.
+    birthdate: 1881
+    deathdate: 1975
+    gutenberg_agent_id: '783'
+    url: http://www.gutenberg.org/2009/agents/783
+    wikipedia: https://en.wikipedia.org/wiki/P._G._Wodehouse
+description: 'Also published under the title: Summer lightning.'
+gutenberg_issued: '2025-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75435'
+  lccn: '29014150'
+language: en
+pgterms:marc905: 20240724141056wodehouse
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bA/L. Burt Company, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcsh 'Nobility -- Fiction'
+- !lcsh 'Blandings Castle (England : Imaginary place) -- Fiction'
+- !lcsh 'Shropshire (England) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Fish preferred
+url: http://www.gutenberg.org/ebooks/75435
