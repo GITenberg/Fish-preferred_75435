@@ -1,5 +1,8 @@
 _repo: Fish-preferred_75435
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75435-h/images/cover.jpg
 creator:
   author:
     agent_name: Wodehouse, P. G. (Pelham Grenville)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/783
     wikipedia: https://en.wikipedia.org/wiki/P._G._Wodehouse
 description: 'Also published under the title: Summer lightning.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75435#Fish-preferred
 gutenberg_issued: '2025-02-21'
 gutenberg_type: Text
 identifiers:
